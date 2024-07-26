@@ -9,10 +9,7 @@
 <!--Intro start-->
 
 - 🌱 I’m currently learning **Tailwind CSS, Laravel, Vue, and PHP.**
-- 🧠☁️ I have a keen interest in web development and **I’m currently studying Software Development.**
-- 
-
-
+- 🧠I have a keen interest in web development and **I’m currently studying Software Development.**
 <!--Intro end-->
 
 
