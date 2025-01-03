@@ -26,9 +26,7 @@
 
 
 <div id="user-content-toc">
-  <ul >
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+  <h2>Connect With Me😊</h2>
 </div>
 
 <!--icons and links-->
