@@ -1,9 +1,7 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi I'm @noemvy 🍒</h1></summary>
-  </ul>
+  Hi I'm @noemvy 🍒
 </div>
 
 <!--Intro start-->
