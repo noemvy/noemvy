@@ -14,12 +14,11 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Technologies That I Know✨</h2></summary>
-  </ul>
+  <h1>Technologies That I Know✨</h1>
 </div>
+
 <!--tech stack icons-->
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,tailwind,js,php,mysql,laravel" />
   </a>
