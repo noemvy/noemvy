@@ -8,10 +8,10 @@
 
 <!--Intro start-->
 
-🌱 **Currently learning**: Tailwind CSS, Laravel, Vue, and PHP
-🧠 **Passionate about**: Web development
-📚 **Studying**: Software Development
-💻 **Goal**: Continuously improving my skills to build high-quality, user-centric applications.
+- 🌱 **Currently learning**: Tailwind CSS, Laravel, Vue, and PHP
+- 🧠 **Passionate about**: Web development
+- 📚 **Studying**: Software Development
+- 💻 **Goal**: Continuously improving my skills to build high-quality, user-centric applications.
 <!--Intro end-->
 
 <!--h1 without bottom border-->
