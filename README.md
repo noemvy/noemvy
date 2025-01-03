@@ -6,7 +6,7 @@
 
 <!--Intro start-->
 
-- 🌱 **Currently learning**: Tailwind CSS, Laravel, Vue, and PHP
+- 🌱 **Currently learning continuously exploring new technologies**
 - 🧠 **Passionate about**: Web development
 - 📚 **Studying**: Software Development
 - 💻 **Goal**: Continuously improving my skills to build high-quality, user-centric applications.
