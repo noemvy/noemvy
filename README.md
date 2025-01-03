@@ -8,8 +8,10 @@
 
 <!--Intro start-->
 
-- 🌱 I’m currently learning **Tailwind CSS, Laravel, Vue, and PHP.**
-- 🧠I have a keen interest in web development and **I’m currently studying Software Development.**
+🌱 **Currently learning**: Tailwind CSS, Laravel, Vue, and PHP
+🧠 **Passionate about**: Web development
+📚 **Studying**: Software Development
+💻 **Goal**: Continuously improving my skills to build high-quality, user-centric applications.
 <!--Intro end-->
 
 <!--h1 without bottom border-->
