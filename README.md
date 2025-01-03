@@ -21,8 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,tailwind,js,php,mysql,laravel
-      " />
+    <img src="https://skillicons.dev/icons?i=git,tailwind,js,php,mysql,laravel" />
   </a>
 </p>
 
