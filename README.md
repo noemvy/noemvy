@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,tailwind,js,php,mysql,laravel,nodejs,postman,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,tailwind,js,php,mysql,laravel,nodejs,postman,express,vercel" />
   </a>
 </p>
 
